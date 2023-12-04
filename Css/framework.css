@@ -123,6 +123,9 @@
 .mb-5 {
   margin-bottom: 5px;
 }
+.mb-15 {
+  margin-bottom: 15px;
+}
 
 .mb-10 {
   margin-bottom: 10px;
@@ -251,7 +254,9 @@
 .b-none {
   border: none;
 }
-
+.border-ccc {
+  border: 1px solid #ccc;
+}
 /* End Border */
 
 /* Start Width + Height */
